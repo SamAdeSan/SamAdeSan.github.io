@@ -1,19 +1,19 @@
 <rss version="2.0">
     <channel>
         <title>Mi web con RSS</title>
-        <link>http://localhost:63342/Mi%20web%20con%20RSS/WebCSS/ReviewMLPT.html?_ijt=76os6f86u3lp0kndtk0n1ssv7m</link>
+        <link>https://samadesan.github.io</link>
         <description>Review entera del juego Mario y Luigi: Compañeros en el tiempo</description>
         <language>es-ES</language>
         <image>
             <title>Logo del juego</title>
-            <url>https://www.mipagina.com/MLPT-logo.png</url>
-            <link>http://localhost:63342/Mi%20web%20con%20RSS/WebCSS/ReviewMLPT.html?_ijt=76os6f86u3lp0kndtk0n1ssv7m</link>
+            <url>https://samadesan.github.io/media/MLPT.webp</url>
+            <link>https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/partners_in_time_9.jpg</link>
             <width>90</width>
             <height>36</height>
         </image>
         <item>
             <title>Gracias por enviar el Formulario</title>
-            <link>http://localhost:63342/Mi%20web%20con%20RSS/WebCSS/GraciasFormulario.html?_ijt=edtccpvk0ac25rr5v11fn3ov9c</link>
+            <link>https://samadesan.github.io/GraciasFormulario.html?name=&amp;comments=</link>
             <description>Datos del formulario</description>
         </item>
     </channel>
